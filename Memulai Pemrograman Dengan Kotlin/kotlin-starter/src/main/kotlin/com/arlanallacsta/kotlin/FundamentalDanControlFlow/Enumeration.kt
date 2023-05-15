@@ -1,4 +1,4 @@
-package com.arlanallacsta.kotlin
+package com.arlanallacsta.kotlin.FundamentalDanControlFlow
 
 fun main() {
     val color: Color = Color.valueOf("RED")

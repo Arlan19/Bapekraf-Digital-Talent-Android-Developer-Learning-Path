@@ -1,4 +1,4 @@
-package com.arlanallacsta.kotlin
+package com.arlanallacsta.kotlin.FundamentalDanControlFlow
 
 data class User (val name: String, val age: Int)
 
